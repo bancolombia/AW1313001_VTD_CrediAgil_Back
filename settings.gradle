@@ -1,0 +1,3 @@
+rootProject.name = 'API.PreaprobadoCA'
+include ':API.PreaprobadoCA-service'
+include ':API.PreaprobadoCA-web'
